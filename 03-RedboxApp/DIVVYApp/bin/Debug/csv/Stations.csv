@@ -1,0 +1,11 @@
+StationID,Capacity,Cross-Streets1,Cross-Streets2,Latitude,Longitude
+1001,19,Halsted St,Polk St,41.87184,-87.64664
+1002,19,W Harrison St,Morgan St,41.874675,-87.650019
+1003,32,Halsted St,Roosevelt Rd,41.867324,-87.648625
+1004,15,May St,Taylor St,41.8694821,-87.6554864
+1005,15,Canal St,Harrison St,41.874337,-87.639566
+1006,15,Clinton St,Roosevelt Rd,41.86711778,-87.64108796
+1007,17,Racine Ave,Congress Pkwy,41.87464,-87.65703
+1008,15,Halsted St,Maxwell St,41.864883,-87.647071
+1009,15,Aberdeen St,Jackson Blvd,41.87772613,-87.65478743
+1010,48,Peoria St,Jackson Blvd,41.877749,-87.649633

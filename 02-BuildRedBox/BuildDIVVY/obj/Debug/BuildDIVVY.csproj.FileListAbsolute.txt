@@ -1,0 +1,26 @@
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\BuildDIVVY.exe.config
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\BuildDIVVY.exe
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\BuildDIVVY.pdb
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\EntityFramework.dll
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\EntityFramework.xml
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\obj\Debug\BuildDIVVY.csprojResolveAssemblyReference.cache
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\obj\Debug\BuildDIVVY.exe
+C:\Users\Han\Desktop\CS 480\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\obj\Debug\BuildDIVVY.pdb
+\\Mac\Home\Downloads\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\BuildDIVVY.exe.config
+\\Mac\Home\Downloads\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\obj\Debug\BuildDIVVY.exe
+\\Mac\Home\Downloads\Hwk5\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\obj\Debug\BuildDIVVY.pdb
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\BuildDIVVY.exe.config
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\obj\Debug\BuildDIVVY.exe
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\obj\Debug\BuildDIVVY.pdb
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\BuildDIVVY.exe
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\BuildDIVVY.pdb
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\EntityFramework.dll
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\EntityFramework.xml
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Han\Desktop\CS 480\Final project\Prof_DIVVY\DIVVY\02-BuildDIVVY\BuildDIVVY\obj\Debug\BuildDIVVY.csprojResolveAssemblyReference.cache
+C:\Users\Han\Desktop\CS 480\Final project\RedBox\02-BuildRedBox\BuildDIVVY\bin\Debug\BuildDIVVY.exe.config
+C:\Users\Han\Desktop\CS 480\Final project\RedBox\02-BuildRedBox\BuildDIVVY\obj\Debug\BuildDIVVY.exe
+C:\Users\Han\Desktop\CS 480\Final project\RedBox\02-BuildRedBox\BuildDIVVY\obj\Debug\BuildDIVVY.pdb
